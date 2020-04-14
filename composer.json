@@ -1,0 +1,17 @@
+{
+    "name": "wilder/composer",
+    "description": "Project quete composer",
+    "authors": [
+        {
+            "name": "Alexis",
+            "email": "Alexis.perront@hotmail.fr"
+        }
+    ],
+    "require": {},
+  "autoload": {
+        "psr-4": {"Acme\\": "src/"}
+    }
+
+
+}
+
